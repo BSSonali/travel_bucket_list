@@ -30,4 +30,6 @@ Here are some previews of how the app looks in action:
 <img src="screenshots/homescreen.jpeg" width="300"/>
 
 ### 📝 Add Post Screen 
-<img src="screenshots/addpost.jpeg" width="300"/>
+<img src="screenshots/addpostscreen.jpeg" width="300"/>
+
+## 🚀 Built for learning and fun!
