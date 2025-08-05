@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008873631898",
+    "project_id": "travo-3931f",
+    "storage_bucket": "travo-3931f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008873631898:android:cd2493e6f90d851c682f23",
+        "android_client_info": {
+          "package_name": "com.example.travel_bucket_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzcdntsEh91tPttKagF6z9le7f0k7MvkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
